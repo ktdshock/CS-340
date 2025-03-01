@@ -1,6 +1,6 @@
 # CS-340
 
-<u><b>1.  Writing Code That is Easy to Read, Maintain, and Adapt</b></u>
+<b>1.  Writing Code That is Easy to Read, Maintain, and Adapt</b>
    
 Good code should be easy to read, update, and reuse. In Project One, I created a CRUD Python module to work with a MongoDB database. This module handled Create, Read, Update, and Delete (CRUD) actions, which made it easy to connect with the dashboard in Project Two.
 
@@ -17,7 +17,7 @@ Managing a different kind of database, like one for customer records or product 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<u><b>2. Solving Problems Like a Computer Scientist</b></u>
+<b>2. Solving Problems Like a Computer Scientist</b>
    
 When working on a problem, I like to break it down into smaller steps and solve them one by one. In Project Two, I had to figure out how to connect the database to the dashboard so users could search for animal records.
 
@@ -39,7 +39,7 @@ Write clean, organized code so it’s easy to update later.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<u><b>3. What Computer Scientists Do and Why It Matters</b></u>
+<b>3. What Computer Scientists Do and Why It Matters</b>
    
 What do computer scientists do?
 They build and improve technology to solve problems. They work on things like software, databases, security, and artificial intelligence to make things run more smoothly.
